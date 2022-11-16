@@ -1,0 +1,83 @@
+html {
+    background-color: #f0f3f4;
+    position: relative;
+    min-height: 100%;
+    
+}
+
+
+
+/* .btn-danger, .panel-danger {
+    background-color: #f05050;
+    border-color: #f05050;
+    color: #fff !important;
+} */
+
+
+.form-inline .form-group{
+	margin-bottom: 20px;   
+}
+
+
+.invoice-save-top{
+	margin-top:20px;height:60px;padding:20px;font-size:40px;
+}
+.invoice-save-btm{
+	height:60px;padding:20px;font-size:40px;
+}
+
+.main
+{
+    font-size: 20px;
+    /* background-color:#f0f3f4; */
+    background: #b2bec3
+    
+}
+
+.form-control
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: small;
+    border-radius: 7px;
+    
+}
+
+#companyName
+{
+    font-size: large;
+    padding:10px 5px;
+}
+
+#address
+{
+    font-size: large;
+}
+
+#del
+{
+    font-size: large;
+    font-weight: ;
+    padding: 10px 10px;
+}
+
+#checkb
+{
+    size: 40px;
+}
+
+#Cal
+{
+    font-size: large;
+    padding:10px 5px;
+}
+
+.btn{
+    padding: 15px;
+    font-size: 30px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+
+

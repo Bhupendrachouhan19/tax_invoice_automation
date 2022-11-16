@@ -1,0 +1,27 @@
+.cont
+{
+    background: #b2bec3;
+}
+#label
+{
+    font-size: 20px;
+}
+.search
+{
+    background:#b2bec3;
+    
+}
+
+#box
+{
+    text-align: center;
+}
+
+#wallet
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+
+}
