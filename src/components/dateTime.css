@@ -1,0 +1,6 @@
+.dateTime {
+    width: fit-content;
+    border: 3px solid darkorange;
+    border-radius: 15px;
+    padding: 10px;
+}

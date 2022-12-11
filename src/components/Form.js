@@ -19,9 +19,6 @@ const Input = ({ placeholder, name, type, value, handleChange }) => (
   />
 )
 
-
-
-
 const Form=()=>
 {
 
@@ -39,7 +36,7 @@ const Form=()=>
     };
 
   return (
-   
+  
         <div className='registration-form'>
             <form>
            

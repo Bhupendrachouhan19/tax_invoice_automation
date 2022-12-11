@@ -1,11 +1,6 @@
 import React,{useContext} from 'react'
 import "./Form.css"
-
-
 import { TransactionContext } from "./TransactionCrypto";
-
-
-
 
 const Input = ({ placeholder, name, type, value, handleChange }) => (
   <input
@@ -19,9 +14,6 @@ const Input = ({ placeholder, name, type, value, handleChange }) => (
    
   />
 )
-
-
-
 
 const Gov=()=>
 {
@@ -42,6 +34,15 @@ const Gov=()=>
   return (
    
         <div className='registration-form'>
+        
+            <div className='col-12 my-5 mx-auto text-center' >
+            <button
+            type='button'
+            className='btn btn-primary btn-lg btn-block'
+            id="Cal"
+            onClick={connectWallet}>Connect Wallet</button>
+            </div>
+
             <form>
            
             <Input placeholder="Address To" name="addressTo" type="text"  handleChange={handleChange} />
